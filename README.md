@@ -38,6 +38,9 @@ An intelligent, AI-driven recruitment tool that automates candidate sourcing fro
 6. **Outreach Generation**: Creates personalized outreach messages for top candidates.
 7. **Output**: Returns a JSON response with candidate details, scores, and outreach messages.
 
+![image](https://github.com/user-attachments/assets/11c0bd91-5a3c-4a7d-8e09-5168c0a895dd)
+
+
 ## Technology Stack
 
 **Backend**: FastAPI, Uvicorn
